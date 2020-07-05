@@ -6,7 +6,7 @@
   "dependencies": {
     "ejs": "0.8.4",
     "connect": "~2.9.0",
-    "express": "~3.4.0",
+    "express": "~4.17.1",
     "passport": "~0.1.17",
     "passport-local": "~0.1.6",
     "share": "0.7.3",
