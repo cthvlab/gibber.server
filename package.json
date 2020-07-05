@@ -4,7 +4,7 @@
   "description": "server component for Gibber",
   "main": "index.js",
   "dependencies": {
-    "ejs": "0.8.4",
+    "ejs": "3.1.3",
     "connect": "~2.9.0",
     "express": "~3.4.0",
     "passport": "~0.1.17",
